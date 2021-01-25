@@ -3,8 +3,13 @@
 
 <main>
 
-<h3>Weather App</h3>
+<center>
 
+<h2>Weather App</h2>
+
+
+</center>
+<br>
 
 <div class="search-box">
   <input type="text"
