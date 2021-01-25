@@ -3,6 +3,9 @@
 
 <main>
 
+<h3>Weather App</h3>
+
+
 <div class="search-box">
   <input type="text"
   class="search-bar"
